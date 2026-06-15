@@ -17,8 +17,8 @@ physics-optics-lab-3/
 │   └── data/{part1, part2}/        ← Multimeter CSV at varying load resistances
 ├── 02_LED_photodiode_reverse/       ← Reverse-biased photodiode I-V
 ├── 03_LED_photodiode_AC/            ← Frequency response, bandwidth measurement
-├── 04_LED_spectroscopy/             ← ⭐ LED electro-optical characterisation:
-│   └── data/                           electric spectrum, optical spectrum, key parameters
+├── 04_LED_spectroscopy/             ← LED electro-optical characterisation:
+│   └── data/                          electric spectrum, optical spectrum, key parameters
 │       ├── LED_ELECTRIC_SPECTRUM.CSV
 │       ├── LED_OPTIC_SPECTRUM.CSV
 │       └── LED_PARAMETERS.CSV
@@ -26,7 +26,7 @@ physics-optics-lab-3/
 │   └── data/                        ← 3 collimation configs + no-lens reference + p-q pairs
 ├── 06_light_absorption/             ← Beer-Lambert law: 4 LED wavelengths × 3 filter colours
 │   └── data/{LED_BLUE,GREEN,RED,YELLOW}/
-├── 07_laser_diffraction/            ← ⭐⭐ HIGHLIGHT: single & double slit diffraction
+├── 07_laser_diffraction/            ← Single & double slit diffraction
 │   ├── data/                            with red and green lasers; slit width inversion
 │   │   ├── Diffraction.xlsx
 │   │   └── LaserDiffraction.xlsx
