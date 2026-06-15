@@ -1,1 +1,0 @@
-# Diffrazione da fenditura singola e doppia

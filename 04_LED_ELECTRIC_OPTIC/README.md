@@ -1,4 +1,0 @@
-#  Caratteristica I-V e misura spettroscopica dell’emissione di LED
-
-1. Verificare il comportamento non lineare e asimmetrico della caratteristica Corrente-Tensione (I-V) della giunzione p-n, ovvero del diodo nelle sue diverse possibili configurazioni: diodo rettificatore in silicio, fotodiodo in silicio, diodo emettitore di luce per diversi semiconduttori III-V. Durante l’esecuzione dell’esperimento NON superare una corrente di 20 mA applicata al diodo.
-2. Dopo avere montato l'esperienza col binario, il reticolo di diffrazione e il braccio mobile secondo le istruzioni ricevute, per ogni LED effettuare la scansione in angolo (ovvero in lunghezza d'onda) e riportare i valori misurati, in tabella e in grafico. Al termine, individuare le lunghezze d'onda di picco. Corrente di alimentazione 18 mA, tranne che per il giallo, che ha 15 mA.
